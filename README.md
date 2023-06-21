@@ -1,1 +1,2 @@
 # YouTube-Analysis
+The YouTube analysis project for social media influencers aims to provide valuable insights and metrics regarding their YouTube channel's performance. By analyzing various aspects of the channel, including video views, engagement metrics, audience demographics, and content trends, the project helps influencers understand their audience better, optimize their content strategy, and improve overall channel growth and engagement.
